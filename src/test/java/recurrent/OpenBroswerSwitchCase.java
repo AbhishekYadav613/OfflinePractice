@@ -7,9 +7,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import java.util.Scanner;
 
 // open browser chosen by user using switch case.
-public class OpenBroswerSwitchCasePENDING {
+public class OpenBroswerSwitchCase {
     public static void main(String[] args) throws InterruptedException {
-        OpenBroswerSwitchCasePENDING ob = new OpenBroswerSwitchCasePENDING();
+        OpenBroswerSwitchCase ob = new OpenBroswerSwitchCase();
         ob.check();
 
     }
